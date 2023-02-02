@@ -15,10 +15,11 @@ If you use this code (or part of it), please send me an e-mail. :)
 ## Features
 
 - Left panel: map showing the cumulative displacement up to the selected frame. Temporal slider to the right allows for changing the selected frame.
+- Control widgets at the bottom allow for changing the colorbar and min/max values.
 - Right panels:
   - top: time-series of selected pixel in the map. Upper time-series is the "raw" time-series. Use "lasso tool" to select a subset of points in the time-series and estimate a linear trend on-the-fly.
   - bottom: time-series extracted on a rectangular area selected on the map. You may use this second time-series as a "reference", that may be subtracted to the pixel-derived time-series (use the tick box to apply the subtraction).
-- Control widgets at the top allow for changing the colorbar and min/max values.
+
 
 
 ## Installation
