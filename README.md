@@ -10,7 +10,7 @@ Demo video [here](https://github.com/RaphaelGrandin/FlatsimDashboard/blob/a6f200
 
 If you use this code (or part of it), please send me an e-mail. :)
 
-![Screenshot of demo video displaying an example with an InSAR map on the left, and a time-series on the right](https://github.com/RaphaelGrandin/FlatsimDashboard/blob/main/Flatsim_Dashboard_Demo_Afar_RG_reduced_capture.jpg)
+![Screenshot of demo video displaying an example with an InSAR map on the left, and a time-series on the right](https://github.com/RaphaelGrandin/FlatsimDashboard/blob/main/Flatsim_Dashboard_Demo_Peru_capture.jpg)
 
 ## Features
 
